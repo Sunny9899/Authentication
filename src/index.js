@@ -1,4 +1,4 @@
-//AUTHENTICATION ASSIGNMENT
+//AUTHENTICATION ASSIGNMENT//
 
 //User can login after only he's signed up. Without signup, user can't login and simultaneously can't either create or view posts.
 
